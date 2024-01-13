@@ -1,0 +1,7 @@
+{
+    "DFIntTaskSchedulerTargetFps": 2222,
+    "FFlagSimIslandizerManager": "false",
+    "FFlagDebugSimIntegrationStabilityTesting": "True",
+    "DFIntDebugSimPhysicsSteppingMethodOverride": 500,
+    "DFIntS2PhysicsSenderRate": "500"
+}
