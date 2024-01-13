@@ -12,4 +12,4 @@ The best way in my opinion is to use pyinstaller, which will also allow easier w
 
 If you would like a prebuilt version of the exe, contact me on discord.
 
-You can find my contact info at my [biolink](tonka.bio/mew)
+You can find my contact info at my [biolink](https://tonka.bio/mew)
