@@ -1,3 +1,4 @@
+# I know the code is sloppy, but it works, cry me a river
 import os 
 import time
 import requests
